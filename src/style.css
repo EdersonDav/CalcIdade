@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+.tudo{
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    margin-top: 200px ;
+}
+.data{
+    margin: 20px 0 
+}
+button{
+    
+    padding: 05px;
+    margin: auto 10px ;
+    background-color: cornflowerblue;
+}
